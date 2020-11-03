@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:16
+#EXTINF:15.400000,
+https://vkceyugu.cdn.bspapp.com/VKCEYUGU-imgbed/08c7dfb9-1bc9-4090-992f-bc32f703dad2.jpg
+#EXTINF:12.680000,
+https://vkceyugu.cdn.bspapp.com/VKCEYUGU-imgbed/36af4037-2968-4fbf-a986-8dbca974758a.jpg
+#EXTINF:2.160000,
+https://vkceyugu.cdn.bspapp.com/VKCEYUGU-imgbed/cc0c524c-2182-45ea-9d50-78a832dccc46.jpg
+#EXT-X-ENDLIST
