@@ -1,0 +1,12 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:16
+#EXTINF:15.400000,
+https://www.picbed.cn/images/2020/11/03/000.jpg
+#EXTINF:12.680000,
+https://www.picbed.cn/images/2020/11/03/001.jpg
+#EXTINF:2.160000,
+https://www.picbed.cn/images/2020/11/03/002.jpg
+#EXT-X-ENDLIST
