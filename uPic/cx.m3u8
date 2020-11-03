@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:21
+#EXTINF:20.160000,
+http://p.ananas.chaoxing.com/star3/origin/4dd916aade5ceecd2f189b496acfaeca.jpg?rw=1&rh=1&_fileSize=6364715&_orientation=1
+#EXTINF:10.080000,
+http://p.ananas.chaoxing.com/star3/origin/3cd92ce81420f98033a45ea5e9828e98.jpg?rw=1&rh=1&_fileSize=3092011&_orientation=1
+#EXT-X-ENDLIST
