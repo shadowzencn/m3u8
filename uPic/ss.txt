@@ -1,0 +1,507 @@
+CCTV1 1080,http://liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
+CCTV2 540,http://liveplay-kk.rtxapp.com/live/program/live/cctv2/1300000/mnf.m3u8
+CCTV3 1080,http://liveplay-kk.rtxapp.com/live/program/live/cctv3hd/4000000/mnf.m3u8
+CCTV4 540,http://liveplay-kk.rtxapp.com/live/program/live/cctv4/1300000/mnf.m3u8
+CCTV5 1080,http://liveplay-kk.rtxapp.com/live/program/live/cctv5hd/4000000/mnf.m3u8
+CCTV5+ 1080,http://liveplay-kk.rtxapp.com/live/program/live/cctv5phd/4000000/mnf.m3u8
+CCTV6 1080,http://liveplay-kk.rtxapp.com/live/program/live/cctv6hd/4000000/mnf.m3u8
+CCTV7 540,http://liveplay-kk.rtxapp.com/live/program/live/cctv7/1300000/mnf.m3u8
+CCTV8 1080,http://liveplay-kk.rtxapp.com/live/program/live/cctv8hd/4000000/mnf.m3u8
+CCTV10 1080,http://liveplay-kk.rtxapp.com/live/program/live/cctv10hd/4000000/mnf.m3u8
+CCTV11 540,http://liveplay-kk.rtxapp.com/live/program/live/cctv11/1300000/mnf.m3u8
+CCTV12 540,http://liveplay-kk.rtxapp.com/live/program/live/cctv12/1300000/mnf.m3u8
+CCTV13 540,http://liveplay-kk.rtxapp.com/live/program/live/cctvxw/1300000/mnf.m3u8
+CCTV14 1080,http://liveplay-kk.rtxapp.com/live/program/live/cctvsehd/4000000/mnf.m3u8
+CCTV15 540,http://liveplay-kk.rtxapp.com/live/program/live/cctvyy/1300000/mnf.m3u8
+中国天气 576,http://liveplay-kk.rtxapp.com/live/program/live/zgqx/1300000/mnf.m3u8
+上海ICS外语 1080,http://liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/mnf.m3u8
+上海东方影视 1080,http://liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
+上海五星体育 1080,http://liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8
+上海第一财经 1080,http://liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
+上海新闻综合 1080,http://liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
+上海纪实人文 1080,http://liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
+上海哈哈炫动 1080,http://liveplay-kk.rtxapp.com/live/program/live/hhxdhd/4000000/mnf.m3u8
+上海都市 1080,http://liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf.m3u8
+上海教育 540,http://liveplay-kk.rtxapp.com/live/program/live/setv/1300000/mnf.m3u8
+东南卫视 1080,http://liveplay-kk.rtxapp.com/live/program/live/dnwshd/4000000/mnf.m3u8
+东方卫视 1080,http://liveplay-kk.rtxapp.com/live/program/live/hddfws/4000000/mnf.m3u8
+北京卫视 1080,http://liveplay-kk.rtxapp.com/live/program/live/bjwshd/4000000/mnf.m3u8
+天津卫视 1080,http://liveplay-kk.rtxapp.com/live/program/live/tjwshd/4000000/mnf.m3u8
+安徽卫视 1080,http://liveplay-kk.rtxapp.com/live/program/live/ahwshd/4000000/mnf.m3u8
+山东卫视 1080,http://liveplay-kk.rtxapp.com/live/program/live/sdwshd/4000000/mnf.m3u8
+广东卫视 1080,http://liveplay-kk.rtxapp.com/live/program/live/gdwshd/4000000/mnf.m3u8
+江苏卫视 1080,http://liveplay-kk.rtxapp.com/live/program/live/jswshd/4000000/mnf.m3u8
+江西卫视 1080,http://liveplay-kk.rtxapp.com/live/program/live/jxwshd/4000000/mnf.m3u8
+浙江卫视 1080,http://liveplay-kk.rtxapp.com/live/program/live/zjwshd/4000000/mnf.m3u8
+辽宁卫视 1080,http://liveplay-kk.rtxapp.com/live/program/live/lnwshd/4000000/mnf.m3u8
+深圳卫视 1080,http://liveplay-kk.rtxapp.com/live/program/live/szwshd/4000000/mnf.m3u8
+湖北卫视 1080,http://liveplay-kk.rtxapp.com/live/program/live/hbwshd/4000000/mnf.m3u8
+湖南卫视 1080,http://liveplay-kk.rtxapp.com/live/program/live/hnwshd/4000000/mnf.m3u8
+黑龙江卫视 1080,http://liveplay-kk.rtxapp.com/live/program/live/hljwshd/4000000/mnf.m3u8
+厦门卫视 540,http://liveplay-kk.rtxapp.com/live/program/live/xmws/1300000/mnf.m3u8
+吉林卫视 540,http://liveplay-kk.rtxapp.com/live/program/live/jlws/1300000/mnf.m3u8
+四川卫视 540,http://liveplay-kk.rtxapp.com/live/program/live/scws/1300000/mnf.m3u8
+宁夏卫视 540,http://liveplay-kk.rtxapp.com/live/program/live/nxws/1300000/mnf.m3u8
+云南卫视 540,http://liveplay-kk.rtxapp.com/live/program/live/ynws/1300000/mnf.m3u8
+兵团卫视 540,http://liveplay-kk.rtxapp.com/live/program/live/btws/1300000/mnf.m3u8
+广西卫视 540,http://liveplay-kk.rtxapp.com/live/program/live/gxws/1300000/mnf.m3u8
+新疆卫视 540,http://liveplay-kk.rtxapp.com/live/program/live/xjws/1300000/mnf.m3u8
+河北卫视 540,http://liveplay-kk.rtxapp.com/live/program/live/hbws/1300000/mnf.m3u8
+河南卫视 540,http://liveplay-kk.rtxapp.com/live/program/live/hnws/1300000/mnf.m3u8
+海南卫视 540,http://liveplay-kk.rtxapp.com/live/program/live/lyws/1300000/mnf.m3u8
+甘肃卫视 540,http://liveplay-kk.rtxapp.com/live/program/live/gsws/1300000/mnf.m3u8
+贵州卫视 540,http://liveplay-kk.rtxapp.com/live/program/live/gzws/1300000/mnf.m3u8
+重庆卫视 540,http://liveplay-kk.rtxapp.com/live/program/live/cqws/1300000/mnf.m3u8
+陕西卫视 540,http://liveplay-kk.rtxapp.com/live/program/live/sxws/1300000/mnf.m3u8
+青海卫视 540,http://liveplay-kk.rtxapp.com/live/program/live/qhws/1300000/mnf.m3u8
+湖南金鹰卡通 540,http://liveplay-kk.rtxapp.com/live/program/live/jykt/1300000/mnf.m3u8
+广东嘉佳卡通 540,http://liveplay-kk.rtxapp.com/live/program/live/jjkt/1300000/mnf.m3u8
+SiTV新视觉 1080,http://liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+SiTV动漫秀场 1080,http://liveplay-kk.rtxapp.com/live/program/live/dmxchd/4000000/mnf.m3u8
+SiTV游戏风云 1080,http://liveplay-kk.rtxapp.com/live/program/live/yxfyhd/4000000/mnf.m3u8
+SiTV劲爆体育 1080,http://liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+SiTV魅力足球 1080,http://liveplay-kk.rtxapp.com/live/program/live/mlyyhd/4000000/mnf.m3u8
+SiTV欢笑剧场 1080,http://liveplay-kk.rtxapp.com/live/program/live/hxjchd/4000000/mnf.m3u8
+SiTV极速汽车 1080,http://liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
+SiTV生活时尚 1080,http://liveplay-kk.rtxapp.com/live/program/live/shsshd/4000000/mnf.m3u8
+SiTV全纪实 1080,http://liveplay-kk.rtxapp.com/live/program/live/qjshd/4000000/mnf.m3u8
+SiTV都市剧场 1080,http://liveplay-kk.rtxapp.com/live/program/live/dsjchd/4000000/mnf.m3u8
+SiTV幸福彩 1080,http://liveplay-kk.rtxapp.com/live/program/live/xfchd/4000000/mnf.m3u8
+SiTV法治天地 540,http://liveplay-kk.rtxapp.com/live/program/live/fztd/1300000/mnf.m3u8
+SiTV金色频道 540,http://liveplay-kk.rtxapp.com/live/program/live/jingsepd/1300000/mnf.m3u8
+SiTV七彩戏剧 540,http://liveplay-kk.rtxapp.com/live/program/live/qcxj/1300000/mnf.m3u8
+SiTV东方财经 540,http://liveplay-kk.rtxapp.com/live/program/live/dfcj/1300000/mnf.m3u8
+百事通体育 1080,http://liveplay-kk.rtxapp.com/live/program/live/hdnba5/4000000/mnf.m3u8
+百事通体育 1080,http://liveplay-kk.rtxapp.com/live/program/live/hdnba1/4000000/mnf.m3u8
+百事通体育 1080,http://liveplay-kk.rtxapp.com/live/program/live/hdnba2/4000000/mnf.m3u8
+百事通体育 1080,http://liveplay-kk.rtxapp.com/live/program/live/hdnba3/4000000/mnf.m3u8
+百事通体育 1080,http://liveplay-kk.rtxapp.com/live/program/live/hdnba4/4000000/mnf.m3u8
+百事通体育 1080,http://liveplay-kk.rtxapp.com/live/program/live/hdnba6/4000000/mnf.m3u8
+百事通体育 1080,http://liveplay-kk.rtxapp.com/live/program/live/hdnba7/4000000/mnf.m3u8
+CCTV1 576,http://39.134.168.76/PLTV/1/224/3221225508/index.m3u8
+CCTV1 720,http://39.134.168.76/PLTV/1/224/3221225510/index.m3u8
+CCTV2 540,http://39.134.168.76/PLTV/1/224/3221225550/index.m3u8
+CCTV3 540,http://39.134.168.76/PLTV/1/224/3221225552/index.m3u8
+CCTV4 540,http://39.134.168.76/PLTV/1/224/3221225554/index.m3u8
+CCTV5 720,http://39.134.168.76/PLTV/1/224/3221225556/index.m3u8
+CCTV6 720,http://39.134.168.76/PLTV/1/224/3221225558/index.m3u8
+CCTV7 540,http://39.134.168.76/PLTV/1/224/3221225560/index.m3u8
+CCTV8 720,http://39.134.168.76/PLTV/1/224/3221225562/index.m3u8
+CCTV10 720,http://39.134.168.76/PLTV/1/224/3221225564/index.m3u8
+CCTV11 540,http://39.134.168.76/PLTV/1/224/3221225566/index.m3u8
+CCTV12 540,http://39.134.168.76/PLTV/1/224/3221225568/index.m3u8
+CCTV13 540,http://39.134.168.76/PLTV/1/224/3221225572/index.m3u8
+CCTV14 720,http://39.134.168.76/PLTV/1/224/3221225570/index.m3u8
+CCTV15 540,http://39.134.168.76/PLTV/1/224/3221225574/index.m3u8
+东南卫视 720,http://39.134.168.76/PLTV/1/224/3221225580/index.m3u8
+东方卫视 540,http://39.134.168.76/PLTV/1/224/3221225492/index.m3u8
+东方卫视 576,http://39.134.168.76/PLTV/1/224/3221225504/index.m3u8
+东方卫视 720,http://39.134.168.76/PLTV/1/224/3221225506/index.m3u8
+云南卫视 540,http://39.134.168.76/PLTV/1/224/3221225632/index.m3u8
+兵团卫视 540,http://39.134.168.76/PLTV/1/224/3221225634/index.m3u8
+内蒙古卫视 540,http://39.134.168.76/PLTV/1/224/3221225626/index.m3u8
+北京卫视 576,http://39.134.168.76/PLTV/1/224/3221225524/index.m3u8
+北京卫视 720,http://39.134.168.76/PLTV/1/224/3221225526/index.m3u8
+厦门卫视 540,http://39.134.168.76/PLTV/1/224/3221225640/index.m3u8
+吉林卫视 540,http://39.134.168.76/PLTV/1/224/3221225586/index.m3u8
+四川卫视 540,http://39.134.168.76/PLTV/1/224/3221225592/index.m3u8
+天津卫视 720,http://39.134.168.76/PLTV/1/224/3221225594/index.m3u8
+宁夏卫视 540,http://39.134.168.76/PLTV/1/224/3221225638/index.m3u8
+安徽卫视 720,http://39.134.168.76/PLTV/1/224/3221225548/index.m3u8
+山东卫视 576,http://39.134.168.76/PLTV/1/224/3221225540/index.m3u8
+山东卫视 720,http://39.134.168.76/PLTV/1/224/3221225542/index.m3u8
+山西卫视 540,http://39.134.168.76/PLTV/1/224/3221225646/index.m3u8
+广东卫视 576,http://39.134.168.76/PLTV/1/224/3221225528/index.m3u8
+广东卫视 720,http://39.134.168.76/PLTV/1/224/3221225530/index.m3u8
+广西卫视 540,http://39.134.168.76/PLTV/1/224/3221225598/index.m3u8
+新疆卫视 540,http://39.134.168.76/PLTV/1/224/3221225630/index.m3u8
+江苏卫视 576,http://39.134.168.76/PLTV/1/224/3221225512/index.m3u8
+江苏卫视 720,http://39.134.168.76/PLTV/1/224/3221225514/index.m3u8
+江西卫视 720,http://39.134.168.76/PLTV/1/224/3221225588/index.m3u8
+河北卫视 540,http://39.134.168.76/PLTV/1/224/3221225624/index.m3u8
+河南卫视 540,http://39.134.168.76/PLTV/1/224/3221225584/index.m3u8
+浙江卫视 576,http://39.134.168.76/PLTV/1/224/3221225520/index.m3u8
+浙江卫视 720,http://39.134.168.76/PLTV/1/224/3221225522/index.m3u8
+海南卫视 540,http://39.134.168.76/PLTV/1/224/3221225620/index.m3u8
+深圳卫视 576,http://39.134.168.76/PLTV/1/224/3221225532/index.m3u8
+深圳卫视 720,http://39.134.168.76/PLTV/1/224/3221225534/index.m3u8
+湖北卫视 576,http://39.134.168.76/PLTV/1/224/3221225544/index.m3u8
+湖北卫视720,http://39.134.168.76/PLTV/1/224/3221225546/index.m3u8
+湖南卫视 576,http://39.134.168.76/PLTV/1/224/3221225516/index.m3u8
+湖南卫视 720,http://39.134.168.76/PLTV/1/224/3221225518/index.m3u8
+甘肃卫视 540,http://39.134.168.76/PLTV/1/224/3221225636/index.m3u8
+西藏卫视 540,http://39.134.168.76/PLTV/1/224/3221225648/index.m3u8
+贵州卫视 540,http://39.134.168.76/PLTV/1/224/3221225582/index.m3u8
+辽宁卫视 720,http://39.134.168.76/PLTV/1/224/3221225590/index.m3u8
+重庆卫视 540,http://39.134.168.76/PLTV/1/224/3221225576/index.m3u8
+陕西卫视 540,http://39.134.168.76/PLTV/1/224/3221225628/index.m3u8
+青海卫视 540,http://39.134.168.76/PLTV/1/224/3221225622/index.m3u8
+黑龙江卫视 576,http://39.134.168.76/PLTV/1/224/3221225536/index.m3u8
+黑龙江卫视 720,http://39.134.168.76/PLTV/1/224/3221225538/index.m3u8
+SiTV七彩戏剧 540,http://39.134.168.76/PLTV/1/224/3221225604/index.m3u8
+SiTV东方财经,http://39.134.168.76/PLTV/1/224/3221225578/index.m3u8
+SiTV动漫秀场 540,http://39.134.168.76/PLTV/1/224/3221225596/index.m3u8
+SiTV极速汽车 540,http://39.134.168.76/PLTV/1/224/3221225600/index.m3u8
+SiTV法治天地 540,http://39.134.168.76/PLTV/1/224/3221225614/index.m3u8
+SiTV游戏风云 540,http://39.134.168.76/PLTV/1/224/3221225608/index.m3u8
+SiTV生活时尚 720,http://39.134.168.76/PLTV/1/224/3221225498/index.m3u8
+SiTV都市剧场 540,http://39.134.168.76/PLTV/1/224/3221225616/index.m3u8
+上海ICS外语 720,http://39.134.168.76/PLTV/1/224/3221225486/index.m3u8
+上海东方影视 720,http://39.134.168.76/PLTV/1/224/3221225612/index.m3u8
+上海哈哈炫动 540,http://39.134.168.76/PLTV/1/224/3221225606/index.m3u8
+上海第一财经 720,http://39.134.168.76/PLTV/1/224/3221225494/index.m3u8
+上海纪实人文 720,http://39.134.168.76/PLTV/1/224/3221225488/index.m3u8
+上海都市 720,http://39.134.168.76/PLTV/1/224/3221225610/index.m3u8
+北京卡酷少儿 540,http://39.134.168.76/PLTV/1/224/3221225642/index.m3u8
+广东嘉佳卡通 540,http://39.134.168.76/PLTV/1/224/3221225644/index.m3u8
+湖南金鹰卡通 540,http://39.134.168.76/PLTV/1/224/3221225602/index.m3u8
+学而思网校 576,http://39.134.168.76/PLTV/1/224/3221225684/index.m3u8
+百事通体育 576,http://39.134.168.76/PLTV/1/224/3221225680/index.m3u8
+4K超高清电影 720,http://520574.xyz/dl/yfy.php?id=51024
+CHC动作电影 720+576,http://520574.xyz/dl/yfy.php?id=51011
+CHC家庭影院 720,http://520574.xyz/dl/yfy.php?id=51010
+CHC高清电影 720+576,http://520574.xyz/dl/yfy.php?id=43063
+CBN幸福剧场 2R720,http://520574.xyz/dl/yfy.php?id=43055
+CBN幸福娱乐 576,http://520574.xyz/dl/yfy.php?id=13011
+CBN幸福娱乐 720+576,http://520574.xyz/dl/yfy.php?id=43092
+CBN每日影院 720+576,http://520574.xyz/dl/yfy.php?id=43091
+CBN风尚生活 720+576,http://520574.xyz/dl/yfy.php?id=43093
+CCTV4K 720,http://520574.xyz/dl/yfy.php?id=51021
+CCTV1 2R720,http://520574.xyz/dl/yfy.php?id=1
+CCTV2 2R720,http://520574.xyz/dl/yfy.php?id=2
+CCTV3 720+576,http://520574.xyz/dl/yfy.php?id=3
+CCTV4 2R720,http://520574.xyz/dl/yfy.php?id=4
+CCTV5 720+576,http://520574.xyz/dl/yfy.php?id=5
+CCTV6 2R720,http://520574.xyz/dl/yfy.php?id=6
+CCTV7 2R720,http://520574.xyz/dl/yfy.php?id=7
+CCTV8 720+576,http://520574.xyz/dl/yfy.php?id=8
+CCTV9 2R720,http://520574.xyz/dl/yfy.php?id=9
+CCTV10 2R720,http://520574.xyz/dl/yfy.php?id=10
+CCTV12 720+576,http://520574.xyz/dl/yfy.php?id=11
+CCTV14 720+576,http://520574.xyz/dl/yfy.php?id=12
+CCTV5+ 720+576,http://520574.xyz/dl/yfy.php?id=13
+CCTV13 720+576,http://520574.xyz/dl/yfy.php?id=39
+CCTV15 576,http://520574.xyz/dl/yfy.php?id=40
+CCTV11 720+576,http://520574.xyz/dl/yfy.php?id=41
+CCTV17 720+576,http://520574.xyz/dl/yfy.php?id=90
+中国教育1 720+576,http://520574.xyz/dl/yfy.php?id=10001
+中国教育1 720+576,http://520574.xyz/dl/yfy.php?id=33
+中国教育4 576,http://520574.xyz/dl/yfy.php?id=10000
+中国教育4 576,http://520574.xyz/dl/yfy.php?id=38
+中国教育早教 576,http://520574.xyz/dl/yfy.php?id=51017
+CCTV电视指南 576,http://520574.xyz/dl/yfy.php?id=10003
+CCTV风云足球 576,http://520574.xyz/dl/yfy.php?id=22019
+CCTV老故事 576,http://520574.xyz/dl/yfy.php?id=22020
+CCTV第一剧场 720,http://520574.xyz/dl/yfy.php?id=43056
+CCTV世界地理 720,http://520574.xyz/dl/yfy.php?id=43057
+CCTV兵器科技 720,http://520574.xyz/dl/yfy.php?id=43060
+CCTV风云音乐 720,http://520574.xyz/dl/yfy.php?id=51012
+CCTV女性时尚 1080,http://520574.xyz/dl/yfy.php?id=51014
+CCTV中学生 576,http://520574.xyz/dl/yfy.php?id=51019
+CCTV中学生 720,http://520574.xyz/dl/yfy.php?id=51032
+CGTN 720+576,http://520574.xyz/dl/yfy.php?id=15
+CGTN纪录 720+576,http://520574.xyz/dl/yfy.php?id=14
+CGTN法语 576,http://520574.xyz/dl/yfy.php?id=68
+中国交通 576,http://520574.xyz/dl/yfy.php?id=11002
+中国天气 576,http://520574.xyz/dl/yfy.php?id=11006
+广东卫视 2R720,http://520574.xyz/dl/yfy.php?id=16
+深圳卫视 720+576,http://520574.xyz/dl/yfy.php?id=17
+江苏卫视 720+576,http://520574.xyz/dl/yfy.php?id=18
+浙江卫视 720+576,http://520574.xyz/dl/yfy.php?id=19
+吉林卫视 720+576,http://520574.xyz/dl/yfy.php?id=20
+湖北卫视 2R720,http://520574.xyz/dl/yfy.php?id=21
+江西卫视 720+576,http://520574.xyz/dl/yfy.php?id=22
+安徽卫视 2R720,http://520574.xyz/dl/yfy.php?id=23
+北京卫视 2R720,http://520574.xyz/dl/yfy.php?id=24
+湖南卫视 2R720,http://520574.xyz/dl/yfy.php?id=25
+东方卫视 720+576,http://520574.xyz/dl/yfy.php?id=26
+黑龙江卫视 720+576,http://520574.xyz/dl/yfy.php?id=27
+天津卫视 720+576,http://520574.xyz/dl/yfy.php?id=28
+山东卫视 2R720,http://520574.xyz/dl/yfy.php?id=29
+贵州卫视 720+576,http://520574.xyz/dl/yfy.php?id=30
+四川卫视 2R720,http://520574.xyz/dl/yfy.php?id=31
+辽宁卫视 720+576,http://520574.xyz/dl/yfy.php?id=32
+山西卫视 720+576,http://520574.xyz/dl/yfy.php?id=54
+陕西卫视 576,http://520574.xyz/dl/yfy.php?id=55
+重庆卫视 720,http://520574.xyz/dl/yfy.php?id=56
+甘肃卫视 576,http://520574.xyz/dl/yfy.php?id=57
+广东南方卫视 576,http://520574.xyz/dl/yfy.php?id=58
+广西卫视 576,http://520574.xyz/dl/yfy.php?id=59
+青海卫视 720+576,http://520574.xyz/dl/yfy.php?id=60
+云南卫视 576,http://520574.xyz/dl/yfy.php?id=61
+海南卫视 576,http://520574.xyz/dl/yfy.php?id=62
+新疆卫视 576,http://520574.xyz/dl/yfy.php?id=64
+西藏卫视 576,http://520574.xyz/dl/yfy.php?id=66
+兵团卫视 576,http://520574.xyz/dl/yfy.php?id=67
+宁夏卫视 576,http://520574.xyz/dl/yfy.php?id=69
+河南卫视 2R720,http://520574.xyz/dl/yfy.php?id=78
+河北卫视 720,http://520574.xyz/dl/yfy.php?id=79
+东南卫视 720+576,http://520574.xyz/dl/yfy.php?id=80
+内蒙古卫视 720+576,http://520574.xyz/dl/yfy.php?id=93
+吉林延边卫视 576,http://520574.xyz/dl/yfy.php?id=22001
+山东教育卫视 576,http://520574.xyz/dl/yfy.php?id=37001
+陕西农林卫视 576,http://520574.xyz/dl/yfy.php?id=61001
+求索纪录 4M1080+2R720,http://520574.xyz/dl/yfy.php?id=43051
+求索生活 4M1080+2R720,http://520574.xyz/dl/yfy.php?id=43052
+求索动物 4M1080+2R720,http://520574.xyz/dl/yfy.php?id=43053
+求索科学 4M1080+2R720,http://520574.xyz/dl/yfy.php?id=43054
+SiTV七彩戏剧 720,http://520574.xyz/dl/yfy.php?id=31001
+SiTV东方财经 576,http://520574.xyz/dl/yfy.php?id=43050
+SiTV全纪实 4M1080+2R720,http://520574.xyz/dl/yfy.php?id=43040
+SiTV动漫秀场 720,http://520574.xyz/dl/yfy.php?id=43045
+SiTV劲爆体育 3R576,http://520574.xyz/dl/yfy.php?id=43038
+SiTV劲爆体育 576,http://520574.xyz/dl/yfy.php?id=50050
+SiTV劲爆体育 720+576,http://520574.xyz/dl/yfy.php?id=43084
+SiTV幸福彩 576,http://520574.xyz/dl/yfy.php?id=43044
+SiTV幸福彩 720,http://520574.xyz/dl/yfy.php?id=51033
+SiTV幸福彩 720,http://520574.xyz/dl/yfy.php?id=51034
+SiTV新视觉 720+576,http://520574.xyz/dl/yfy.php?id=43082
+SiTV新视觉 720,http://520574.xyz/dl/yfy.php?id=51009
+SiTV极速汽车 576,http://520574.xyz/dl/yfy.php?id=43042
+SiTV欢笑剧场 2R720,http://520574.xyz/dl/yfy.php?id=43039
+SiTV法治天地 2R768,http://520574.xyz/dl/yfy.php?id=43046
+SiTV游戏风云 4M1080+2R720,http://520574.xyz/dl/yfy.php?id=43041
+SiTV游戏风云 720,http://520574.xyz/dl/yfy.php?id=43041/1400.m3u8
+SiTV生活时尚 576,http://520574.xyz/dl/yfy.php?id=43043
+SiTV都市剧场 576,http://520574.xyz/dl/yfy.php?id=43085
+SiTV魅力足球 576,http://520574.xyz/dl/yfy.php?id=43083
+上海五星体育 576,http://520574.xyz/dl/yfy.php?id=11223
+广东体育 720+576,http://520574.xyz/dl/yfy.php?id=34
+广东公共 576,http://520574.xyz/dl/yfy.php?id=45
+广东少儿 576,http://520574.xyz/dl/yfy.php?id=63
+广东珠江 576,http://520574.xyz/dl/yfy.php?id=65
+广东高尔夫 576,http://520574.xyz/dl/yfy.php?id=43035
+蛇口 576,http://520574.xyz/dl/yfy.php?id=37
+深圳都市 576,http://520574.xyz/dl/yfy.php?id=46
+深圳电视剧 576,http://520574.xyz/dl/yfy.php?id=47
+深圳财经生活 576,http://520574.xyz/dl/yfy.php?id=48
+深圳娱乐 576,http://520574.xyz/dl/yfy.php?id=49
+深圳体育健康 576,http://520574.xyz/dl/yfy.php?id=50
+深圳少儿 576,http://520574.xyz/dl/yfy.php?id=51
+深圳公共 576,http://520574.xyz/dl/yfy.php?id=52
+深圳DV生活 720,http://520574.xyz/dl/yfy.php?id=51039
+江苏靓妆 720,http://520574.xyz/dl/yfy.php?id=51015
+江苏优漫卡通 576,http://520574.xyz/dl/yfy.php?id=53
+江苏财富天下 576,http://520574.xyz/dl/yfy.php?id=43037
+徐州1 576,http://520574.xyz/dl/yfy.php?id=32001
+徐州2 576,http://520574.xyz/dl/yfy.php?id=32002
+徐州3 576,http://520574.xyz/dl/yfy.php?id=32003
+徐州4 576,http://520574.xyz/dl/yfy.php?id=32004
+山西经济资讯 576,http://520574.xyz/dl/yfy.php?id=84
+山西影视 576,http://520574.xyz/dl/yfy.php?id=85
+山西科教 576,http://520574.xyz/dl/yfy.php?id=86
+山西公共 576,http://520574.xyz/dl/yfy.php?id=87
+山西黄河 576,http://520574.xyz/dl/yfy.php?id=88
+山西少儿 576,http://520574.xyz/dl/yfy.php?id=89
+阳泉新闻综合 576,http://520574.xyz/dl/yfy.php?id=71
+阳泉科教 576,http://520574.xyz/dl/yfy.php?id=72
+北京冬奥纪实 576,http://520574.xyz/dl/yfy.php?id=22030
+北京冬奥纪实 720,http://520574.xyz/dl/yfy.php?id=11001
+北京卡酷少儿 576,http://520574.xyz/dl/yfy.php?id=11003
+河北杂技 576,http://520574.xyz/dl/yfy.php?id=13002
+河北经济生活 576,http://520574.xyz/dl/yfy.php?id=13003
+河北农民 576,http://520574.xyz/dl/yfy.php?id=13004
+河北都市 576,http://520574.xyz/dl/yfy.php?id=13005
+河北影视剧 576,http://520574.xyz/dl/yfy.php?id=13006
+河北少儿科教 576,http://520574.xyz/dl/yfy.php?id=13007
+河北公共 576,http://520574.xyz/dl/yfy.php?id=13008
+河北收视指南 576,http://520574.xyz/dl/yfy.php?id=13010
+石家庄生活 576,http://520574.xyz/dl/yfy.php?id=13012
+石家庄都市 576,http://520574.xyz/dl/yfy.php?id=13013
+石家庄新闻综合 720,http://520574.xyz/dl/yfy.php?id=13014
+邯郸新闻综合 576,http://520574.xyz/dl/yfy.php?id=13009
+吉林生活 720+576,http://520574.xyz/dl/yfy.php?id=22003
+吉林影视 576,http://520574.xyz/dl/yfy.php?id=22004
+吉林公共新闻 720+576,http://520574.xyz/dl/yfy.php?id=22005
+吉林东北戏曲 576,http://520574.xyz/dl/yfy.php?id=22032
+吉林7 576,http://520574.xyz/dl/yfy.php?id=22013
+吉林都市 576,http://520574.xyz/dl/yfy.php?id=22017
+吉林乡村 576,http://520574.xyz/dl/yfy.php?id=22018
+吉林教育 576,http://520574.xyz/dl/yfy.php?id=22006
+长影频道 576,http://520574.xyz/dl/yfy.php?id=22007
+长春娱乐 720+576,http://520574.xyz/dl/yfy.php?id=22008
+长春市民 720+576,http://520574.xyz/dl/yfy.php?id=22009
+长春经济 720+576,http://520574.xyz/dl/yfy.php?id=22010
+长春综合 720+576,http://520574.xyz/dl/yfy.php?id=22011
+长春汽车 720+576,http://520574.xyz/dl/yfy.php?id=22012
+河南梨园 576,http://520574.xyz/dl/yfy.php?id=13001
+河南都市 1080,http://520574.xyz/dl/yfy.php?id=41101
+河南民生 576,http://520574.xyz/dl/yfy.php?id=41102
+河南法治 576,http://520574.xyz/dl/yfy.php?id=41103
+河南电视剧 576,http://520574.xyz/dl/yfy.php?id=41104
+河南新闻 576,http://520574.xyz/dl/yfy.php?id=41105
+河南公共 576,http://520574.xyz/dl/yfy.php?id=41106
+河南新农村 576,http://520574.xyz/dl/yfy.php?id=41107
+河南晴彩中原 720,http://520574.xyz/dl/yfy.php?id=41108
+河南移动戏曲 720,http://520574.xyz/dl/yfy.php?id=41109
+河南武术世界 720,http://520574.xyz/dl/yfy.php?id=41110
+河南文物宝库 720,http://520574.xyz/dl/yfy.php?id=41111
+郑州新闻综合1080,http://520574.xyz/dl/yfy.php?id=41112
+周口1 576,http://520574.xyz/dl/yfy.php?id=41113
+开封新闻综合 576,http://520574.xyz/dl/yfy.php?id=41114
+洛阳新闻综合 576,http://520574.xyz/dl/yfy.php?id=41115
+平顶山新闻综合 576,http://520574.xyz/dl/yfy.php?id=41116
+淇县新闻综合 576,http://520574.xyz/dl/yfy.php?id=41118
+新乡新闻综合 576,http://520574.xyz/dl/yfy.php?id=41119
+焦作综合 576,http://520574.xyz/dl/yfy.php?id=41120
+濮阳综合 576,http://520574.xyz/dl/yfy.php?id=41121
+许昌综合 576,http://520574.xyz/dl/yfy.php?id=41122
+漯河新闻综合 576,http://520574.xyz/dl/yfy.php?id=41123
+三门峡新闻综合 576,http://520574.xyz/dl/yfy.php?id=41124
+商丘新闻综合 576,http://520574.xyz/dl/yfy.php?id=41125
+驻马店新闻综合 576,http://520574.xyz/dl/yfy.php?id=41126
+南阳新闻综合 576,http://520574.xyz/dl/yfy.php?id=41127
+信阳综合 576,http://520574.xyz/dl/yfy.php?id=41128
+济源1 576,http://520574.xyz/dl/yfy.php?id=41129
+湖南教育 2R720,http://520574.xyz/dl/yfy.php?id=43021
+湖南国际 576,http://520574.xyz/dl/yfy.php?id=43022
+湖南导视 576,http://520574.xyz/dl/yfy.php?id=43023
+湖南经视 2R720,http://520574.xyz/dl/yfy.php?id=43024
+湖南金鹰纪实 6M1080+2R720,http://520574.xyz/dl/yfy.php?id=43025
+湖南娱乐 2R720,http://520574.xyz/dl/yfy.php?id=43027
+湖南都市 2R720,http://520574.xyz/dl/yfy.php?id=43028
+湖南电影 2R720,http://520574.xyz/dl/yfy.php?id=43029
+湖南电视剧 2R720,http://520574.xyz/dl/yfy.php?id=43030
+湖南公共 2R720,http://520574.xyz/dl/yfy.php?id=43031
+湖南快乐垂钓 576,http://520574.xyz/dl/yfy.php?id=43047
+湖南茶频道 2R720,http://520574.xyz/dl/yfy.php?id=43048
+湖南金鹰卡通 576,http://520574.xyz/dl/yfy.php?id=81
+湖南先锋乒羽 576,http://520574.xyz/dl/yfy.php?id=43062
+长沙电视台 4M1080,http://520574.xyz/dl/yfy.php?id=43064
+株洲新闻综合 576,http://520574.xyz/dl/yfy.php?id=43065
+衡阳新闻综合 576,http://520574.xyz/dl/yfy.php?id=43066
+郴州新闻综合 576,http://520574.xyz/dl/yfy.php?id=43067
+永州新闻综合 576,http://520574.xyz/dl/yfy.php?id=43068
+娄底综合 4M1080,http://520574.xyz/dl/yfy.php?id=43069
+邵阳新闻综合 576,http://520574.xyz/dl/yfy.php?id=43070
+常德新闻综合 576,http://520574.xyz/dl/yfy.php?id=43071
+张家界新闻综合 576,http://520574.xyz/dl/yfy.php?id=43072
+吉首综合 576,http://520574.xyz/dl/yfy.php?id=43073
+怀化新闻综合 576,http://520574.xyz/dl/yfy.php?id=43074
+岳阳新闻综合 576,http://520574.xyz/dl/yfy.php?id=43075
+益阳新闻综合 576,http://520574.xyz/dl/yfy.php?id=43076
+湘潭新闻综合 576,http://520574.xyz/dl/yfy.php?id=43077
+湖南金鹰卡通 720+576,http://520574.xyz/dl/yfy.php?id=43087
+益阳新闻综合 576,http://520574.xyz/dl/yfy.php?id=43088
+益阳教育 576,http://520574.xyz/dl/yfy.php?id=43089
+益阳公共 576,http://520574.xyz/dl/yfy.php?id=43090
+网课一年级 1080,http://520574.xyz/dl/yfy.php?id=43101
+网课二年级 1080,http://520574.xyz/dl/yfy.php?id=43102
+网课三年级 1080,http://520574.xyz/dl/yfy.php?id=43103
+网课四年级 1080,http://520574.xyz/dl/yfy.php?id=43104
+网课五年级 1080,http://520574.xyz/dl/yfy.php?id=43105
+网课六年级 1080,http://520574.xyz/dl/yfy.php?id=43106
+网课初一 1080,http://520574.xyz/dl/yfy.php?id=43107
+网课初二 1080,http://520574.xyz/dl/yfy.php?id=43108
+网课初三 1080,http://520574.xyz/dl/yfy.php?id=43109
+网课初三语文 1080,http://520574.xyz/dl/yfy.php?id=43110
+网课初三数学 1080,http://520574.xyz/dl/yfy.php?id=43111
+网课初三英语 1080,http://520574.xyz/dl/yfy.php?id=43112
+网课初三物理 1080,http://520574.xyz/dl/yfy.php?id=43113
+网课中考 5M1080,http://520574.xyz/dl/yfy.php?id=43114
+江西陶瓷 2R720,http://520574.xyz/dl/yfy.php?id=43049
+青岛中华美食 576,http://520574.xyz/dl/yfy.php?id=43061
+四川文化旅游 720,http://520574.xyz/dl/yfy.php?id=51001
+四川经济 720,http://520574.xyz/dl/yfy.php?id=51002
+四川新闻 720,http://520574.xyz/dl/yfy.php?id=51003
+四川影视文艺 720,http://520574.xyz/dl/yfy.php?id=51004
+四川妇女儿童 720,http://520574.xyz/dl/yfy.php?id=51005
+四川科教 576,http://520574.xyz/dl/yfy.php?id=51006
+四川公共乡村 576,http://520574.xyz/dl/yfy.php?id=51007
+四川峨眉电影 720,http://520574.xyz/dl/yfy.php?id=51008
+湖北休闲指南 720,http://520574.xyz/dl/yfy.php?id=51035
+重庆汽摩 720,http://520574.xyz/dl/yfy.php?id=51038
+甘肃家政 576,http://520574.xyz/dl/yfy.php?id=62001
+内蒙古足球 720,http://520574.xyz/dl/yfy.php?id=15001
+DoxTV测试 576,http://520574.xyz/dl/yfy.php?id=22023
+车迷频道 576,http://520574.xyz/dl/yfy.php?id=11004
+环球旅游 576,http://520574.xyz/dl/yfy.php?id=11005
+环球奇观 576,http://520574.xyz/dl/yfy.php?id=51018
+中华特产 576,http://520574.xyz/dl/yfy.php?id=51025
+百姓健康频道 720,http://520574.xyz/dl/yfy.php?id=51031
+北广优优宝贝 576,http://520574.xyz/dl/yfy.php?id=11007
+天元围棋 576,http://520574.xyz/dl/yfy.php?id=43033
+摄影频道 576,http://520574.xyz/dl/yfy.php?id=43034
+四海钓鱼 576,http://520574.xyz/dl/yfy.php?id=43036
+国学频道 576,http://520574.xyz/dl/yfy.php?id=43058
+书画频道 576,http://520574.xyz/dl/yfy.php?id=43059
+彩民在线 720,http://520574.xyz/dl/yfy.php?id=51036
+摄影频道 720,http://520574.xyz/dl/yfy.php?id=51037
+NNM家庭理财 576,http://520574.xyz/dl/yfy.php?id=21001
+NNM游戏竞技 576,http://520574.xyz/dl/yfy.php?id=51013
+CCTV中视购物 576,http://520574.xyz/dl/yfy.php?id=11010
+央广购物 576,http://520574.xyz/dl/yfy.php?id=11011
+聚鲨环球精选 720,http://520574.xyz/dl/yfy.php?id=11008
+深圳宜和购物 576,http://520574.xyz/dl/yfy.php?id=42
+山西优购物 576,http://520574.xyz/dl/yfy.php?id=43
+重庆时尚购物 576,http://520574.xyz/dl/yfy.php?id=44
+河北三佳购物 576,http://520574.xyz/dl/yfy.php?id=12001
+北京家有购物 576,http://520574.xyz/dl/yfy.php?id=22002
+江苏好享购物 720,http://520574.xyz/dl/yfy.php?id=32010
+湖南快乐购 2R720,http://520574.xyz/dl/yfy.php?id=43032
+HAPPY幸福,https://717616144.r.worldssl.net/717616144/tv/ttv12/chunklist_w1523462553.m3u8
+松视1台,https://717616144.r.worldssl.net/717616144/tv/ttv11/chunklist_w1523462549.m3u8
+标★频道需科学上网,https://cn.shadowzen.xyz/
+凤凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+凤凰资讯台,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
+凤凰资讯台,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
+凤凰资讯台,http://223.110.245.136/PLTV/3/224/3221226923/index.m3u8
+凤凰资讯台,http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
+凤凰中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+凤凰中文台,http://112.17.40.140/PLTV/88888888/224/3221226368/index.m3u8
+凤凰中文台,http://223.110.245.138/PLTV/3/224/3221226922/index.m3u8
+凤凰中文台,http://117.169.124.37:6610/ysten-businessmobile/live/fhchinese/1.m3u8
+ATV亞洲電視台,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
+TVB 明珠台,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=12&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
+有線直播新聞台,http://teslagram.com/live/channel_110.m3u8
+ดูทีวีสีช่อง 3(Channel 3),https://www.livedoomovies.com/02_3HD_720p/chunklist.m3u8
+ULTRA REX 4K,http://a3569457567-zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw20000000/playlist.m3u8?utcstart=1572789600&version=2
+LOVE NATURE 4K,http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
+Ultra HD Cinema 4K,http://dmitry-tv.my1.ru/his/itv_zabava/04/CH_ULTRAHDCINEMA_HLSUHD.m3u8
+Eurosport 4K,http://dmitry-tv.my1.ru/his/itv_zabava/01/CH_EUROSPORT4K_HLSUHD.m3u8
+亚洲新闻台,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+無綫新聞台,http://livetv.dnsfor.me/channel.10.m3u8
+有線綜合娱乐,http://livetv.dnsfor.me/channel.7.m3u8
+有線新闻,http://livetv.dnsfor.me:80/channel.5.m3u8
+有線財經資訊,http://livetv.dnsfor.me/channel.6.m3u8
+星空卫视,http://livetv.dnsfor.me/channel.22.m3u8
+香港开電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+亞洲電視台,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8
+港台電視31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+港台電視32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+澳視澳門台,http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
+澳視MACAU,http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
+澳視資訊,http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+民視★,http://seb.sason.top/ptv/ftv.php?id=ms
+民視第一★,http://seb.sason.top/ptv/ftv.php?id=dy
+民視台灣★,http://seb.sason.top/ptv/ftv.php?id=tw
+民視新聞★,http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+台視★,http://p06.iptv2asia.com:18888/http/001
+台視綜合★,http://p06.iptv2asia.com:18888/http/002
+台視新聞★,http://seb.sason.top/sc/tsxw_fhd.m3u8
+中視★,http://p06.iptv2asia.com:18888/http/005
+中視新聞★,http://seb.sason.top/sc/zsxw_fhd.m3u8
+華視新聞★,http://seb.sason.top/sc/hsxw_fhd.m3u8
+中天新聞★,http://seb.sason.top/sc/ztxw_fhd.m3u8
+東森新聞★,http://seb.sason.top/sc/dsxw_fhd.m3u8
+東森財經新聞★,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+公視,http://p06.iptv2asia.com:18888/http/016
+公視台語,http://p06.iptv2asia.com:18888/http/017
+公視3,http://p06.iptv2asia.com:18888/http/018
+TVBS新聞★,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+TVBS歡樂,http://220.158.149.28:8180/live/TV00000000000000000079@HHZT
+三立新聞★,http://seb.sason.top/sc/sllive_fhd.m3u8
+三立財經新聞★,http://seb.sason.top/sc/slinews_fhd.m3u8
+港台電視31,http://teslagram.com/live/channel_31.m3u8
+港台電視32,http://teslagram.com/live/channel_32.m3u8
+香港開電視,http://teslagram.com/live/channel_77.m3u8
+有線財經資訊台,http://teslagram.com/live/channel_108.m3u8
+有線直播台,http://teslagram.com/live/channel_110.m3u8
+Now Sports 精選,http://teslagram.com/live/channel_630.m3u8
+HK01,http://teslagram.com/live/channel_hk01.m3u8
+東網直播台,http://teslagram.com/live/channel_ontv.m3u8
+東網新聞台,http://teslagram.com/live/channel_news.m3u8
+Sports 2 World,http://teslagram.com/live/channel_sports2world.m3u8
+賽馬直擊,http://teslagram.com/live/channel_utv_racing.m3u8
+C+ 頻道,http://teslagram.com/live/channel_utv_c_plus.m3u8
+Olympic Channel 1,http://teslagram.com/live/channel_olympic_1.m3u8
