@@ -1,0 +1,15 @@
+#EXTM3U
+#EXTINF:-1,NHk综合
+http://193.42.99.133:23455/NHKHD/playlist.m3u8
+#EXTINF:-1,日本映画
+http://193.42.99.133:23455/3770/playlist.m3u8
+#EXTINF:-1,朝日tv
+http://193.42.99.133:23455/zhaori/playlist.m3u8
+#EXTINF:-1,NHK BSP
+http://193.42.99.133:23455/3630/playlist.m3u8
+#EXTINF:-1,东京TV
+http://193.42.99.133:23455/TVTOKYO/playlist.m3u8
+#EXTINF:-1,tv?
+http://193.42.99.133:23455/3810/playlist.m3u8
+#EXTINF:-1,tv??
+http://193.42.99.133:23455/2610/playlist.m3u8
